@@ -1,10 +1,11 @@
-**# I'm Alex Lihet**
-## Hi there 👋
+## Hi, I'm Alex 👋
 
-<!--
-**Alexa-dot229/Alexa-dot229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+↗️Started this journey studing in the HyperionDev Bootcamp
+
+
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
